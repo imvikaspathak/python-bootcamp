@@ -1,0 +1,1 @@
+print("hellow"+input("please writre your name"))
